@@ -7,20 +7,20 @@ parallel-jobs = 1
 # you can use rvmm-config-gen to generate a config
 
 [Instagram]
-apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
+apkmirror-dlurl = "https://apkmirror.com/apk/instagram/"
 included-patches = "'Hide ads' 'Disable signature check'"
 exclusive-patches = true
 
 [Music]
-apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music/"
 
 [Twitter]
-apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter/"
 
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 
-[com.duolingo]
+[Duolingo]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/duolingo/"
 included-patches = "'Disable ads'"
 exclusive-patches = true
